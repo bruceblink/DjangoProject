@@ -2,6 +2,8 @@
 
 ### first step 
 ```bash
+ pip install uv
+ uv sync
  cd djangotutorial
  python manage.py runserver
 ```
