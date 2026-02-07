@@ -1,11 +1,5 @@
 import datetime
 
-from django.utils import timezone
-
-from djangotutorial.polls.models import Question
-
-import datetime
-
 from django.test import TestCase
 from django.utils import timezone
 
